@@ -1,0 +1,14 @@
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\net8.0\DevIO.Business.deps.json
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\net8.0\DevIO.Business.runtimeconfig.json
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\net8.0\DevIO.Business.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\net8.0\DevIO.Business.pdb
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.AssemblyInfo.cs
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\refint\DevIO.Business.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.pdb
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\DevIO.Business.genruntimeconfig.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\net8.0\ref\DevIO.Business.dll

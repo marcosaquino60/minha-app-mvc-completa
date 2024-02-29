@@ -1,0 +1,17 @@
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.AssemblyInfo.cs
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\bin\Debug\net8.0\DevIO.Data.deps.json
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\bin\Debug\net8.0\DevIO.Data.runtimeconfig.json
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\bin\Debug\net8.0\DevIO.Data.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\bin\Debug\net8.0\DevIO.Data.pdb
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\bin\Debug\net8.0\DevIO.Business.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\bin\Debug\net8.0\DevIO.Business.pdb
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.CopyComplete
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\refint\DevIO.Data.dll
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.pdb
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\DevIO.Data.genruntimeconfig.cache
+C:\Treino\Projetos\MinhaAppMvcCompleta\DevIO.Data\obj\Debug\net8.0\ref\DevIO.Data.dll
